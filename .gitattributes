@@ -1,0 +1,22 @@
+# Normalize line endings: store text as LF in the repo, check out native on each OS.
+* text=auto
+
+# Explicit text types (LF in repo)
+*.cs       text
+*.csproj   text
+*.slnx     text
+*.sln      text eol=crlf
+*.json     text
+*.md       text
+*.yml      text
+*.yaml     text
+*.gitattributes text
+*.gitignore     text
+
+# Binary types (never normalize)
+*.png  binary
+*.jpg  binary
+*.gif  binary
+*.ico  binary
+*.dll  binary
+*.exe  binary
