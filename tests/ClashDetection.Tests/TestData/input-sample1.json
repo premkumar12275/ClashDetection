@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "building_0",
+      "properties": {
+        "height": 4,
+        "elevation": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              0
+            ],
+            [
+              20,
+              60
+            ],
+            [
+              0,
+              60
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              20,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building_1",
+      "properties": {
+        "height": 4,
+        "elevation": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60,
+              60
+            ],
+            [
+              0,
+              60
+            ],
+            [
+              0,
+              40
+            ],
+            [
+              60,
+              40
+            ],
+            [
+              60,
+              60
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building_2",
+      "properties": {
+        "height": 4,
+        "elevation": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60,
+              0
+            ],
+            [
+              60,
+              60
+            ],
+            [
+              40,
+              60
+            ],
+            [
+              40,
+              0
+            ],
+            [
+              60,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building_3",
+      "properties": {
+        "height": 4,
+        "elevation": 6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60,
+              20
+            ],
+            [
+              0,
+              20
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              60,
+              0
+            ],
+            [
+              60,
+              20
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

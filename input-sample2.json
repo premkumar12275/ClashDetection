@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "building_0",
+      "properties": {
+        "height": 4,
+        "elevation": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              0
+            ],
+            [
+              20,
+              40
+            ],
+            [
+              40,
+              40
+            ],
+            [
+              40,
+              0
+            ],
+            [
+              20,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building_1",
+      "properties": {
+        "height": 4,
+        "elevation": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              20
+            ],
+            [
+              0,
+              40
+            ],
+            [
+              40,
+              40
+            ],
+            [
+              40,
+              20
+            ],
+            [
+              0,
+              20
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building_2",
+      "properties": {
+        "height": 4,
+        "elevation": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              20
+            ],
+            [
+              20,
+              60
+            ],
+            [
+              40,
+              60
+            ],
+            [
+              40,
+              20
+            ],
+            [
+              20,
+              20
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
