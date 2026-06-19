@@ -1,5 +1,7 @@
 # Clash Detection Service
 
+[![CI](https://github.com/premkumar12275/ClashDetection/actions/workflows/ci.yml/badge.svg)](https://github.com/premkumar12275/ClashDetection/actions/workflows/ci.yml)
+
 A .NET 10 minimal API that detects 3D overlaps ("clashes") between buildings. Each building is a
 2D GeoJSON polygon footprint extruded vertically from `elevation` to `elevation + height`. The
 service returns the overlapping sections as a GeoJSON `FeatureCollection`.
